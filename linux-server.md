@@ -13,3 +13,8 @@ Create a new user and database, and allow access to tis user
     FLUSH PRIVILEGES;
 
     
+# Image Processing
+
+* ImageMagick: `identify <filename>` to get infos about an image
+* `jpegoptim` to optimize jpegs
+* `optipng` to optimize pngs
